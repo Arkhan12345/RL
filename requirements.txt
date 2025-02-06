@@ -1,0 +1,6 @@
+gymnasium
+gymnasium[atari]
+torch
+numpy
+matplotlib
+seaborn
